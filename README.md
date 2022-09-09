@@ -1,7 +1,7 @@
 # intro-python
 An introductory course to programming in Python
 
-## Agenda
+## Day 1
 
 ### Module 0: Installation (2 hours)
 - Installing Python via Anaconda
@@ -12,6 +12,8 @@ An introductory course to programming in Python
 - Tupes, lists, dictionaries
 - Conditionals and booleans
 - Loops, iterators
+
+## Day 2
 
 ### Module 2: Working with functions (2.5 hours)
 - Single Responsibility Principle
