@@ -7,23 +7,26 @@ An introductory course to programming in Python
 - Installing Python via Anaconda
 - Using conda environments, installing packages
 
-### Module 1: Getting started with Python (5 hours)
+### Module 1: Getting started with Python (3 hours)
 - Data types, variables, operators
 - Tupes, lists, dictionaries
 - Conditionals and booleans
 - Loops, iterators
 
-## Day 2
-
-### Module 2: Working with functions (2.5 hours)
+### Module 2: Working with functions (2 hours)
 - Single Responsibility Principle
 - Function declaration
+
+## Day 2
+
+### Recap day 1 (0.5 hours)
 
 ### Module 3: Errors and exceptions (2.5 hours)
 - Difference between errors and exceptions
 - Catching errors and exceptions
 - Throwing custom errors and exceptions
 
-### Module 4: Writing good code (2 hours)
+### Module 4: Writing good code (4 hours)
 - Code style
+- (Packaging?)
 - Documentation
