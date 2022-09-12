@@ -7,6 +7,7 @@ An introductory course to programming in Python
 - Installing Python via Anaconda/Miniconda
 - Working with conda environments
 - Installing packages
+- Jupyter Lab
 
 ### Module 1: Getting started with Python (3 hours)
 - Data types, variables, operators
