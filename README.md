@@ -10,8 +10,8 @@ An introductory course to programming in Python
 - Jupyter Lab
 
 ### Module 1: Getting started with Python (3 hours)
-- Data types, variables, operators
-- Tupes, lists, dictionaries
+- Operators, variables, and data types
+- Lists, tuples, and dictionaries
 - Conditionals and booleans
 - Loops, iterators
 
