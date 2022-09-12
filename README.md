@@ -4,8 +4,9 @@ An introductory course to programming in Python
 ## Day 1
 
 ### Module 0: Installation (2 hours)
-- Installing Python via Anaconda
-- Using conda environments, installing packages
+- Installing Python via Anaconda/Miniconda
+- Working with conda environments
+- Installing packages
 
 ### Module 1: Getting started with Python (3 hours)
 - Data types, variables, operators
