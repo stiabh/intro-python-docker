@@ -12,7 +12,7 @@ An introductory course to programming in Python
 ### Module 1: Getting started with Python (3 hours)
 - Operators, variables, and data types
 - Lists, tuples, and dictionaries
-- Conditionals and booleans
+- Booleans and conditionals
 - Loops, iterators
 
 ### Module 2: Working with functions (2 hours)
