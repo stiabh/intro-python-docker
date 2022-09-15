@@ -16,8 +16,8 @@ An introductory course to programming in Python
 - Loops and iterables
 
 ### Module 2: Working with functions (2 hours)
-- Single Responsibility Principle
 - Function declaration
+- Single Responsibility Principle
 
 ## Day 2
 
