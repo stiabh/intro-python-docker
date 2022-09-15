@@ -3,13 +3,15 @@ An introductory 2 day course to programming in Python
 
 ## Daily schedule
 
-09:00-10:30 Lectures/Exercises
-10:30-10:45 Break
-10:45-11:30 Lectures/Exercises
-11:30-12:00 Lunch
-12:00-13:30 Lectures/Exercises
-13:30-13:45 Break
-13:45-15:30 Lectures/Exercises
+| Time        |       |
+|-------------|-------|
+| 09:00-10:30 | Lectures/Exercises |
+| 10:30-10:45 | Break |
+| 10:45-11:30 | Lectures/Exercises |
+| 11:30-12:00 | Lunch |
+| 12:00-13:30 | Lectures/Exercises |
+| 13:30-13:45 | Break |
+| 13:45-15:30 | Lectures/Exercises |
 
 ## Day 1
 
