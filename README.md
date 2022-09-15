@@ -3,7 +3,7 @@ An introductory course to programming in Python
 
 ## Day 1
 
-### Module 0: Installation (2 hours)
+### Module 0: Installation (1 hour)
 - Installing Python via Anaconda/Miniconda
 - Working with conda environments
 - Installing packages
@@ -23,7 +23,7 @@ An introductory course to programming in Python
 
 ### Recap day 1 (0.5 hours)
 
-### Module 3: Errors and exceptions (2.5 hours)
+### Module 3: Errors and exceptions (1.5 hours)
 - Difference between errors and exceptions
 - Catching errors and exceptions
 - Throwing custom errors and exceptions
