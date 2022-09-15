@@ -13,7 +13,7 @@ An introductory course to programming in Python
 - Operators, variables, and data types
 - Lists, tuples, and dictionaries
 - Booleans and conditionals
-- Loops, iterators
+- Loops and iterables
 
 ### Module 2: Working with functions (2 hours)
 - Single Responsibility Principle
