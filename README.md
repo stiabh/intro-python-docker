@@ -15,7 +15,7 @@ An introductory 2 day course to programming in Python
 
 ## Requirements
 
-All participants should work in a Linux-based environment (Mac is fine). Participants using a Windows PC should activate the Windows Subsystem for Linux (WSL 2). While it is technically possible to use Python in Windows it can create problems with certain packages like geopandas. 
+All participants should work in a Linux-based environment (Mac is fine). Participants using a Windows PC should activate the [Windows Subsystem for Linux (WSL 2)](https://learn.microsoft.com/en-us/windows/wsl/install) . While it is technically possible to use Python in Windows it can create problems with certain packages like geopandas. 
 
 ## Day 1
 
