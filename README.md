@@ -19,7 +19,7 @@ An introductory 2 day course to programming in Python
 - Installing Python via Anaconda/Miniconda
 - Working with conda environments
 - Installing packages
-- Jupyter Lab
+- Jupyter Lab vs VSCode
 
 ### Module 1: Getting started with Python (3 hours)
 - Operators, variables, and data types
