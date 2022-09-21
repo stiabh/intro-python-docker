@@ -31,7 +31,7 @@ All participants should work in a Linux-based environment (Mac is fine). Partici
 - Booleans and conditionals
 - Loops and iterables
 
-### Module 2: Working with functions (2 hours)
+### Module 2-1: Working with functions (1.5 hours)
 - Function declaration
 - Single Responsibility Principle
 
@@ -39,12 +39,16 @@ All participants should work in a Linux-based environment (Mac is fine). Partici
 
 ### Recap day 1 (0.5 hours)
 
-### Module 3: Errors and exceptions (1.5 hours)
+### Module 2-2: Working with functions (1 hours)
+- Function declaration
+- Single Responsibility Principle
+
+### Module 3: Errors and exceptions (2.5 hours)
 - Difference between errors and exceptions
 - Catching errors and exceptions
 - Throwing custom errors and exceptions
 
-### Module 4: Writing good code (4 hours)
+### Module 4: Writing good code (2 hours)
 - Code style
 - (Packaging?)
 - Documentation
