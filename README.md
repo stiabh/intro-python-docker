@@ -13,13 +13,17 @@ An introductory 2 day course to programming in Python
 | 13:30-13:45 | Break |
 | 13:45-15:30 | Lectures/Exercises |
 
+## Requirements
+
+All participants should work in a Linux-based environment (Mac is fine). Participants using a Windows PC should activate the [Windows Subsystem for Linux (WSL 2)](https://learn.microsoft.com/en-us/windows/wsl/install) . While it is technically possible to use Python in Windows it can create problems with certain packages like geopandas. 
+
 ## Day 1
 
 ### Module 0: Installation (1 hour)
 - Installing Python via Anaconda/Miniconda
 - Working with conda environments
 - Installing packages
-- Jupyter Lab
+- Jupyter Lab vs VSCode
 
 ### Module 1: Getting started with Python (3 hours)
 - Operators, variables, and data types
