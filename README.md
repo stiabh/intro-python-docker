@@ -25,13 +25,13 @@ All participants should work in a Linux-based environment (Mac is fine). Partici
 - Installing packages
 - Jupyter Lab vs VSCode
 
-### Module 1: Getting started with Python (3 hours)
+### Module 1: Getting started with Python (2+1 hours)
 - Operators, variables, and data types
 - Lists, tuples, and dictionaries
 - Booleans and conditionals
 - Loops and iterables
 
-### Module 2-1: Working with functions (1.5 hours)
+### Module 2-1: Working with functions (1+0.5 hours)
 - Function declaration
 - Single Responsibility Principle
 
@@ -39,11 +39,11 @@ All participants should work in a Linux-based environment (Mac is fine). Partici
 
 ### Recap day 1 (0.5 hours)
 
-### Module 2-2: Working with functions (1 hours)
+### Module 2-2: Working with functions (0+1 hours)
 - Function declaration
 - Single Responsibility Principle
 
-### Module 3: Errors and exceptions (2.5 hours)
+### Module 3: Errors and exceptions (1.5+1 hours)
 - Difference between errors and exceptions
 - Catching errors and exceptions
 - Throwing custom errors and exceptions
