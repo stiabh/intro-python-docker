@@ -33,7 +33,7 @@ All participants should work in a Linux-based environment (Mac is fine). Partici
 
 ### Module 2-1: Working with functions (1+0.5 hours)
 - Function declaration
-- Single Responsibility Principle
+- Function arguments
 
 ## Day 2
 
@@ -41,7 +41,7 @@ All participants should work in a Linux-based environment (Mac is fine). Partici
 
 ### Module 2-2: Working with functions (0+1 hours)
 - Function declaration
-- Single Responsibility Principle
+- Function arguments
 
 ### Module 3: Errors and exceptions (1.5+1 hours)
 - Difference between errors and exceptions
@@ -49,6 +49,7 @@ All participants should work in a Linux-based environment (Mac is fine). Partici
 - Throwing custom errors and exceptions
 
 ### Module 4: Writing good code (2 hours)
+- Single Responsibility Principle
 - Code style
 - (Packaging?)
 - Documentation
