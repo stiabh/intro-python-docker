@@ -43,7 +43,7 @@ All participants should work in a Linux-based environment (Mac is fine). Partici
 - Function declaration
 - Function arguments
 
-### Module 3: Errors and exceptions (1.5+1 hours)
+### Module 3: Errors and exceptions (1+1.5 hours)
 - Difference between errors and exceptions
 - Catching errors and exceptions
 - Throwing custom errors and exceptions
