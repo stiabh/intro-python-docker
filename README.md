@@ -43,13 +43,15 @@ All participants should work in a Linux-based environment (Mac is fine). Partici
 - Function declaration
 - Function arguments
 
-### Module 3: Errors and exceptions (1+1.5 hours)
-- Difference between errors and exceptions
-- Catching errors and exceptions
-- Throwing custom errors and exceptions
-
-### Module 4: Writing good code (2 hours)
+### Module 3: Writing good code (2 hours)
 - Single Responsibility Principle
 - Code style
 - (Packaging?)
 - Documentation
+
+### Module 4: Errors and exceptions (1+1.5 hours)
+- Difference between errors and exceptions
+- Catching errors and exceptions
+- Throwing custom errors and exceptions
+
+
