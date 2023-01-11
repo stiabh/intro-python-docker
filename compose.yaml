@@ -1,0 +1,13 @@
+# docker run -it --rm -p 8888:8888 -v ${PWD}/work:/home/jovyan/work jupyter/base-notebook
+#
+# Alternative:
+# cd into repo directory and run docker compose up
+# when finished run docker compose down
+
+services:
+  juptyer-base-notebook:
+    image: jupyter/base-notebook
+    ports:
+      - 8888:8888
+    volumes:
+      - ./work:/home/jovyan/work
